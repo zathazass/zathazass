@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hi there, I'm Sathananthan
 
-<!--
-**zathazass/zathazass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Fullstack Web Developer (React / Django)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning front-end (React)
+- 👯 I’m looking to collaborate with friends (developers)
+- 🤔 I’m thinking and practicing about how to write clean code
+- 📫 Reach me via: sathananthanit15@gmail.com
+- 😄 Pronouns: Zatha, Zass
+- ⚡ Fun fact: I like to watch movies. But mostly watch tech conferences in Youtube
+
+### Languages and Tools
+
+<img src="./icons/python.svg" width="32px">
+<img src="./icons/django.svg" width="32px">
+<img src="./icons/html.svg" width="32px">
+<img src="./icons/css.svg" width="27px">
+<img src="./icons/sass.svg" width="32px">
+<img src="./icons/javascript.svg" width="32px">
+<img src="./icons/react.svg" width="32px">
+<img src="./icons/postgresql.svg" width="32px">
+<img src="./icons/git.svg" width="32px">
+<img src="./icons/bash.svg" width="32px">
+<img src="./icons/visual-studio-code.svg" width="32px">
