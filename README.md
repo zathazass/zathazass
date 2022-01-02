@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sathananthan
 
-##### Fullstack Web Developer (React / Django)
+#### Fullstack Web Developer (React / Django)
 
 ---
 
@@ -15,3 +15,7 @@
 ### Languages and Tools
 
 <img src="./icons/python.svg" width="32px"> <img src="./icons/django.svg" width="32px"> <img src="./icons/html.svg" width="32px"> <img src="./icons/css.svg" width="27px"> <img src="./icons/sass.svg" width="32px"> <img src="./icons/javascript.svg" width="32px"> <img src="./icons/react.svg" width="32px"> <img src="./icons/postgresql.svg" width="32px"> <img src="./icons/git.svg" width="32px"> <img src="./icons/bash.svg" width="32px"> <img src="./icons/visual-studio-code.svg" width="32px">
+
+### Profile Info
+
+see https://zathazass.github.io/portfolio
