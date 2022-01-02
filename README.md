@@ -19,3 +19,7 @@
 ### Profile Info
 
 see https://zathazass.github.io/portfolio
+
+### GitHub Stats Card
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zathazass)](https://github.com/anuraghazra/github-readme-stats)
