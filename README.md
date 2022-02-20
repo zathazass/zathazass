@@ -4,8 +4,7 @@
 
 ---
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning front-end (React)
+- 🌱 I’m currently in Bluekode solutions
 - 👯 I’m looking to collaborate with friends (developers)
 - 🤔 I’m thinking and practicing about how to write clean code
 - 📫 Reach me via: sathananthanit15@gmail.com
