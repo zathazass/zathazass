@@ -4,7 +4,7 @@
 
 ---
 
-- 👨‍💼 I’m currently working in Bluekode solutions
+- 👨‍💼 I’m currently working in Tecnospice technologies pvt. ltd.
 - 👯 I’m looking to collaborate with friends (developers)
 - 🤔 I’m thinking and practicing about how to write clean code
 - 📫 Reach me via: sathananthanit15@gmail.com
